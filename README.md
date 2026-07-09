@@ -265,10 +265,38 @@ and uncomment or use the badge pattern below:
 
 ---
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-## 🐍 Contribution Lattice
+## 🔥 Advanced Metrics & Visual Activity
 
-<!-- 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vu1f2324001&theme=tokyonight" alt="Contribution Grid Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vu1f2324001&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vu1f2324001&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+## ⚡ Terminal Echoes (Fun Facts)
+*   💻 I read code syntax almost as fluidly as standard text.
+*   ☕ My development output scales linearly with problem complexity and coffee intake.
+*   ⚡ Efficient systems and sleek, responsive user experiences make me genuinely happy.
+
+---
+
+<!-- PREMIUM ANIMATED FOOTER ALWAYS AT THE VERY BOTTOM -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,25,17,19,25&height=120&section=footer&animation=twinkling" alt="Premium Wave Footer" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Built with precision, markdown structure, and dedication • 2026 Ultra Premium README Template</sub>
+</p>
+
 ==============================================================================
 ⚠️ ACTION REQUIRED FOR GENERATING THE SNAKE ANIMATION BELOW:
 Create a file named `.github/workflows/snake.yml` and paste the following template:
