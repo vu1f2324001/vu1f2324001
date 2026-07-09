@@ -177,10 +177,14 @@ Role: Computer Engineering Student & Full-Stack Developer
 <!-- GITHUB RECRUITER METRICS & VISUAL STATS -->
 ## 📊 Analytics & Engine Metrics
 
+<!-- GITHUB RECRUITER METRICS & VISUAL STATS -->
+## 📊 Analytics & Engine Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vu1f2324001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akshada's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu1f2324001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vu1f2324001&theme=tokyonight" alt="Akshada's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vu1f2324001&theme=tokyonight" alt="Top Languages Card" width="48%" />
 </p>
+
 
 ---
 
