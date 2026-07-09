@@ -231,7 +231,7 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
   <a href="https://github.com/vu1f2324001">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/vu1f2324001">
+  <a href="https://www.linkedin.com/in/akshada-valkunde-737936327">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:vu1f2324001@pvppcoe.ac.in">
