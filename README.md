@@ -209,7 +209,7 @@ Role: Computer Engineering Student & Full-Stack Developer
 
 <p align="center">
   <!-- LEETCODE BADGE WIDGET -->
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=vu1f2324001&theme=dark" alt="LeetCode Metric Card" />
+  <img src="https://leetcard.jacoblin.cool/vu1f2324001?theme=dark&font=Fira%20Code" alt="LeetCode Metric Card" />
   <!-- NOTE: Update the usernames above/below to match your active competitive platform profiles if they differ -->
 </p>
 
