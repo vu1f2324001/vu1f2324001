@@ -259,6 +259,3 @@ Role: Computer Engineering Student & Full-Stack Developer
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,25,17,19,25&height=120&section=footer&animation=twinkling" alt="Premium Wave Footer" width="100%" />
 </p>
 
-<p align="center">
-  <sub>Built with precision, markdown structure, and dedication • 2026 Ultra Premium README Template</sub>
-</p>
