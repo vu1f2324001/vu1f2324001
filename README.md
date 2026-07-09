@@ -25,7 +25,7 @@ Role: Computer Engineering Student & Full-Stack Developer
 
 <!-- VISITOR COUNTER & SOCIAL BADGES -->
 <p align="center">
-  <img src="https://komarev.com/v1/counter/?username=vu1f2324001&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=vu1f2324001&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Visitor Counter" />
   <img src="https://img.shields.io/github/followers/vu1f2324001?label=Followers&style=flat-square&color=4FACFE" alt="Followers" />
   <img src="https://img.shields.io/github/stars/vu1f2324001?label=Total+Stars&style=flat-square&color=00F2FE" alt="Stars" />
 </p>
