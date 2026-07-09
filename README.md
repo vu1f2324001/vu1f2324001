@@ -36,7 +36,7 @@ Role: Computer Engineering Student & Full-Stack Developer
       <img src="https://github.com/vu1f2324001.png" width="180px" style="border-radius: 50%; border: 4px solid #00F2FE; box-shadow: 0 0 20px rgba(0,242,254,0.5);" alt="Akshada Valkunde Avatar" />
       <h3>🚀 Connect with me</h3>
       <p align="center">
-        <a href="https://linkedin.com/in/akshada-valkunde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br />
+        <a href="https://www.linkedin.com/in/akshada-valkunde-737936327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br />
         <a href="mailto:vu1f2324001@pvppcoe.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br />
         <a href="https://github.com/vu1f2324001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       </p>
