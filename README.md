@@ -50,12 +50,9 @@ Role: Computer Engineering Student & Full-Stack Developer
     <!-- RIGHT: ABOUT ME -->
     <td width="65%" valign="top" style="border: none;">
       <h2>🧠 About Me</h2>
-      ## 🧠 About Me
 
-Hello! I'm **Akshada Valkunde**, a forward-thinking **Computer Engineering Student (2023–2027)** dedicated to crafting elegant, scalable, and efficient digital architectures. Blending the robustness of the **MERN Stack** with evolving capabilities in **Cloud Environments**, **DevOps**, and **Generative AI**, I build applications that are clean, performant, and intuitive.
 
-Driven by competition and continuous learning, I thrive in fast-paced **Hackathons** and deep-dive technical sessions that challenge and sharpen my complex problem-solving and full-stack development skills.
-
+I'm Akshada Valkunde, a Computer Engineering student who enjoys building web applications and learning new technologies. I mainly work with the MERN Stack and am currently exploring Cloud Computing, DevOps, and Generative AI. I like participating in hackathons and building projects that help me improve my problem-solving and development skills.
 *   🔭 **Current Core Focus:** Advancing enterprise management ecosystems and fluid web engines.
 *   🎓 **Academic Track:** Pursuing Bachelor of Engineering in Computer Engineering.
 *   🌱 **Deep Diving Into:** Practical cloud infrastructure deployment and system reliability architectures.
