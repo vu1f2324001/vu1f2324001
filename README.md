@@ -50,18 +50,17 @@ Role: Computer Engineering Student & Full-Stack Developer
     <!-- RIGHT: ABOUT ME -->
     <td width="65%" valign="top" style="border: none;">
       <h2>🧠 About Me</h2>
-      <p>
-        Hello! I'm <b>Akshada Dadaso Valkunde</b>, a forward-thinking <b>Computer Engineering Student (2023–2027)</b> dedicated to crafting elegant, scalable, and efficient digital architectures. Blending the robustness of the <b>MERN Stack</b> with evolving capabilities in <b>Cloud Environments</b> and <b>Generative AI</b>, I build apps that are clean, performant, and intuitive.
-      </p>
-      <p>
-        Driven by competition and continuous learning, I thrive in fast-paced <b>Hackathons</b> and deep-dive sessions tackling complex data structures and system architecture.
-      </p>
-      <ul>
-        <li>🔭 <b>Current Core Focus:</b> Advancing enterprise management ecosystems and fluid web engines.</li>
-        <li>🎓 <b>Academic Track:</b> Pursuing Bachelor of Engineering in Computer Engineering.</li>
-        <li>🌱 <b>Deep Diving Into:</b> Advanced DevOps orchestration pipelines and Prompt Engineering heuristics.</li>
-        <li>💬 <b>Ask Me About:</b> Full-stack system scaling, database normalized/denormalized paradigms, and state management.</li>
-      </ul>
+      ## 🧠 About Me
+
+Hello! I'm **Akshada Valkunde**, a forward-thinking **Computer Engineering Student (2023–2027)** dedicated to crafting elegant, scalable, and efficient digital architectures. Blending the robustness of the **MERN Stack** with evolving capabilities in **Cloud Environments**, **DevOps**, and **Generative AI**, I build applications that are clean, performant, and intuitive.
+
+Driven by competition and continuous learning, I thrive in fast-paced **Hackathons** and deep-dive technical sessions that challenge and sharpen my complex problem-solving and full-stack development skills.
+
+*   🔭 **Current Core Focus:** Advancing enterprise management ecosystems and fluid web engines.
+*   🎓 **Academic Track:** Pursuing Bachelor of Engineering in Computer Engineering.
+*   🌱 **Deep Diving Into:** Practical cloud infrastructure deployment and system reliability architectures.
+*   💬 **Ask Me About:** Full-stack system scaling, component lifecycle optimization, and state management.
+
     </td>
   </tr>
 </table>
