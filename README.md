@@ -113,6 +113,7 @@ Role: Computer Engineering Student & Full-Stack Developer
 
 <table width="100%" border="0" cellpadding="5" cellspacing="5">
   <tr>
+    <!-- PROJECT 1 -->
     <td width="50%" valign="top" style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 15px;">
       <h3>📊 KCDA CMS Dashboard</h3>
       <p><i>Premium MERN Stack Management Portal</i></p>
@@ -123,18 +124,7 @@ Role: Computer Engineering Student & Full-Stack Developer
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
     </td>
-    <td width="50%" valign="top" style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 15px;">
-      <h3>🍲 Recipe Management System</h3>
-      <p><i>Dynamic Interactive Culinary Engine</i></p>
-      <p>Developed a fast, high-fidelity discovery application utilizing predictive asset search, custom ingredient taxonomy mapping, and responsive rendering optimization pipelines for sub-second page loads.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-    </td>
-  </tr>
-  <tr>
+    <!-- PROJECT 2 -->
     <td width="50%" valign="top" style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 15px;">
       <h3>⚕️ MediMart</h3>
       <p><i>Full-Stack E-Healthcare Platform</i></p>
@@ -144,30 +134,6 @@ Role: Computer Engineering Student & Full-Stack Developer
         <img src="https://img.shields.io/badge/Cloudinary-34495E?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-    </td>
-    <td width="50%" valign="top" style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 15px;">
-      <h3>📰 JobYaari Blog Management System</h3>
-      <p><i>Content Distribution & Career Insights Hub</i></p>
-      <p>Built a content delivery architecture configured for fast SEO indexing, markdown compilation parsing, dynamic comment threads, and multi-tenant publishing panels.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" alt="MERN" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="background: rgba(255,255,255,0.02); border-radius: 12px; padding: 15px;">
-      <h3>🚊 Railbus Atithi</h3>
-      <p><i>Transit Hospitality Tracking Infrastructure</i></p>
-      <p>Designed a localized logistics passenger-support mechanism enhancing user navigation profiles, dynamic scheduling indices, and rapid request resolution flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <!-- EMPTY CELL FOR CLEAN RESPONSIVE ALIGNMENT -->
     </td>
   </tr>
 </table>
@@ -293,3 +259,6 @@ Role: Computer Engineering Student & Full-Stack Developer
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,25,17,19,25&height=120&section=footer&animation=twinkling" alt="Premium Wave Footer" width="100%" />
 </p>
 
+<p align="center">
+  <sub>Built with precision, markdown structure, and dedication • 2026 Ultra Premium README Template</sub>
+</p>
