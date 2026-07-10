@@ -202,12 +202,12 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 
 ### ⚡ GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vu1f2324001&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=vu1f2324001&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vu1f2324001&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vu1f2324001&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Contribution Graph" width="80%" />
 </p>
 
 ### 📊 Profile Summary
