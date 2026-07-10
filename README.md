@@ -51,8 +51,8 @@ Role: Computer Engineering Student & Full-Stack Developer
     <td width="65%" valign="top" style="border: none;">
       <h2>🧠 About Me</h2>
 
-
 I'm Akshada Valkunde, a Computer Engineering student who enjoys building web applications and learning new technologies. I mainly work with the MERN Stack and am currently exploring Cloud Computing, DevOps, and Generative AI. I like participating in hackathons and building projects that help me improve my problem-solving and development skills.
+
 *   🔭 **Current Core Focus:** Building full-stack web applications and improving my backend development skills.
 *   🎓 **Academic Track:** B.E. in Computer Engineering (2023–2027).
 *   🌱 **Deep Diving Into:** Data Structures & Algorithms, System Design, Docker, AWS, and Google Cloud.
@@ -139,8 +139,8 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 ## 📊 Analytics & Engine Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vu1f2324001&theme=tokyonight" alt="Akshada's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vu1f2324001&theme=tokyonight" alt="Top Languages Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vu1f2324001&show_icons=true&theme=tokyonight&hide_border=true" alt="Akshada's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu1f2324001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" width="48%" />
 </p>
 
 ---
@@ -195,11 +195,6 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 
 ## 🔥 Advanced Metrics & Visual Activity
 
-### 👑 Productive Time Insights
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vu1f2324001&theme=tokyonight" alt="Productive Time Breakdown" width="100%" />
-</p>
-
 ### ⚡ GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vu1f2324001&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
@@ -208,11 +203,6 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vu1f2324001&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Contribution Graph" width="80%" />
-</p>
-
-### 📊 Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vu1f2324001&theme=tokyonight" alt="Profile Summary Card" width="80%" />
 </p>
 
 ---
@@ -253,4 +243,3 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,25,17,19,25&height=120&section=footer&animation=twinkling" alt="Premium Wave Footer" width="100%" />
 </p>
-
