@@ -139,11 +139,9 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 ## 📊 Analytics & Engine Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vu1f2324001&show_icons=true&theme=tokyonight&description_lines_count=15" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu1f2324001&layout=compact&theme=tokyonight&card_width=400" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vu1f2324001&show_icons=true&theme=tokyonight&v=1.2" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu1f2324001&layout=compact&theme=tokyonight&v=1.2" width="48%" alt="Top Languages" />
 </p>
-
----
 
 ---
 
