@@ -212,7 +212,7 @@ I'm Akshada Valkunde, a Computer Engineering student who enjoys building web app
 
 ### 📊 Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vu1f2324001&theme=tokyonight" alt="Profile Summary Card" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vu1f2324001&theme=tokyonight" alt="Profile Summary Card" width="80%" />
 </p>
 
 ---
